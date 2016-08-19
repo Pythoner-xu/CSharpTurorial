@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerLearn", "IndexerLear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionLearn", "ReflectionLearn\ReflectionLearn.csproj", "{6AFCF4BE-3B2B-42FA-867A-FB6CC929AF2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICompareLearn", "ICompareLearn\ICompareLearn.csproj", "{6B62AB49-6613-43CA-9FD2-490B92C1E604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6AFCF4BE-3B2B-42FA-867A-FB6CC929AF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AFCF4BE-3B2B-42FA-867A-FB6CC929AF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AFCF4BE-3B2B-42FA-867A-FB6CC929AF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B62AB49-6613-43CA-9FD2-490B92C1E604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B62AB49-6613-43CA-9FD2-490B92C1E604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B62AB49-6613-43CA-9FD2-490B92C1E604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B62AB49-6613-43CA-9FD2-490B92C1E604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
